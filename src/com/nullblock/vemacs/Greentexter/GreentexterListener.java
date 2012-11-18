@@ -1,4 +1,4 @@
-package com.nullblock.vemacs.greentexter;
+package com.nullblock.vemacs.Greentexter;
  
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
