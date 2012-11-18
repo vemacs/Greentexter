@@ -1,9 +1,10 @@
 Greentexter
 ===========
-
->using le meme arrow
->outside of le fawchun
-costanza.tiff
+<ul>
+<li>>using le meme arrow</li>
+<li>>outside of le fawchun</li>
+<li>>costanza.tiff</li>
+</ul>
 
 To-Do
 -----
